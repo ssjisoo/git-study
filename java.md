@@ -6,3 +6,4 @@ related:
 -eclipse
 -springboot
 - exception
+- extends
