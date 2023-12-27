@@ -1,4 +1,4 @@
-category: python
+category: kotlin
 lectures: Lee
 related:
 - AI
