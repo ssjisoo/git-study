@@ -6,6 +6,7 @@ related:
 -eclipse
 -springboot
 - exception
+-inherit
 <<<<<<< HEAD
 - extends
 =======
