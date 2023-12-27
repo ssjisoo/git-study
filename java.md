@@ -1,9 +1,6 @@
 category: java
-title: java basic
-lectures: Hong
+title: java level2
+lectures: Jin
 related:
-- spring
-- MVC
-- class
-- OOP
-- Polymorphis
+-xcss
+-eclipse
